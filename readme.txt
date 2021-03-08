@@ -1,5 +1,5 @@
 The program is called "Otzovik". 
-The users can see the reviews of other users, they can leave his own review, see only positive / negative reviews.
+The users can see the reviews of other users, they can leave his own review, see only positive / negative reviews. It works with a database where it stores all the reviews.
 
 Classes:
 
